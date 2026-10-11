@@ -4,9 +4,17 @@
 
 ## 在线体验
 
-[打开已发布的游戏](https://neon-snake-garden-86152.wintrydace10.chatgpt.site)
+**[立即游玩霓虹蛇园](https://wuc-lab.github.io/neon-snake/)**
 
-此链接为已有 Sites 版本。本仓库目前用于保存源码，未配置 GitHub Pages。
+游戏已通过 GitHub Pages 发布，无需下载或安装。用电脑或手机浏览器打开上面的链接，选择模式并点击「开始游戏」即可。也可以在本仓库的 **Settings → Pages → Visit site** 打开网站。
+
+建议将游戏网址加入浏览器书签，或分享给朋友。浏览器内的最高分仍按设备和浏览器分别保存。
+
+### 发布与更新
+
+GitHub Pages 从 `main` 分支的根目录 `/ (root)` 发布。提交 `index.html` 的修改后，GitHub 会重新部署网站；可在仓库的 Actions 页面查看部署进度。网页仍显示旧内容时，待部署完成后尝试强制刷新。
+
+仓库 README 和文档的修改不会改变游戏玩法。
 
 ## 游戏特色
 
